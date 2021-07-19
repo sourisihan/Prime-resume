@@ -6,7 +6,9 @@ h1 {
   font-family: Didot, serif;
 }
 .header {
-  background-color: ;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 h2 {
   font-family: Georgia, serif;
